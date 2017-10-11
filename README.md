@@ -13,3 +13,9 @@ bootstrap panels: https://bootsnipp.com/tags/panel?page=3
 nodeMailer: https://nodemailer.com/about/
 
 node-schedule: https://www.npmjs.com/package/node-schedule
+
+python: https://docs.python.org/ 
+
+https://capgemini.skillport.com/skillportfe/main.action 
+
+https://www.tutorialspoint.com/python/python_environment.htm
