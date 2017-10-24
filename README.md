@@ -19,3 +19,10 @@ python: https://docs.python.org/
 https://capgemini.skillport.com/skillportfe/main.action 
 
 https://www.tutorialspoint.com/python/python_environment.htm
+
+spring boot: http://o7planning.org/en/11267/spring-boot-tutorial-for-beginners
+
+Spring MVC: http://www.technicalkeeda.com/spring-tutorials/spring-boot-mvc-example
+
+https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Timer.html
+https://stackoverflow.com/questions/20172827/analog-setinterval-in-java
