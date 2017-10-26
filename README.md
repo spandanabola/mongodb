@@ -26,3 +26,5 @@ Spring MVC: http://www.technicalkeeda.com/spring-tutorials/spring-boot-mvc-examp
 
 https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Timer.html
 https://stackoverflow.com/questions/20172827/analog-setinterval-in-java
+
+@ComponentScan(basePackages="com.java4s.controller")
