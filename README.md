@@ -28,3 +28,5 @@ https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Timer.html
 https://stackoverflow.com/questions/20172827/analog-setinterval-in-java
 
 @ComponentScan(basePackages="com.java4s.controller")
+
+https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017/course/
