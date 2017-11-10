@@ -38,3 +38,5 @@ https://github.com/cloudfoundry/nodejs-buildpack
 https://docs.cloudfoundry.org/buildpacks/prod-server.html
 
 https://forum.predix.io/questions/2778/how-do-i-deploy-python-application-in-predix.html
+
+https://docs.cloudfoundry.org/buildpacks/node/node-tips.html#start
