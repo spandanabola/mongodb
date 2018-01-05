@@ -44,3 +44,11 @@ https://docs.cloudfoundry.org/buildpacks/node/node-tips.html#start
 https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html
 
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+
+https://datascienceplus.com/introductory-data-analysis-with-python/
+
+https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/usedcars.csv
+
+https://www.wintellect.com/creating-a-simple-linear-regression-machine-learning-model-with-scikit-learn/
+
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
