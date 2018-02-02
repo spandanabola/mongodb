@@ -56,3 +56,7 @@ http://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
 https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171
 
 https://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm
+
+https://pipelines.puppet.com/docs/tutorials/deploy-nodejs-to-ec2/
+
+ec2-54-246-171-115.eu-west-1.compute.amazonaws.com
