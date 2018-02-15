@@ -64,3 +64,5 @@ https://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-in
 https://pipelines.puppet.com/docs/tutorials/deploy-nodejs-to-ec2/
 
 ec2-54-246-171-115.eu-west-1.compute.amazonaws.com
+uu
+https://www.youtube.com/watch?v=XtR29MmzuT0&index=7&list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF
